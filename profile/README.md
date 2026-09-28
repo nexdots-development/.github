@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo-white.png" alt="NexDots" width="120" />
+<img src="assets/logo-colored.png" alt="NexDots" width="120" />
 
 # NexDots
 
