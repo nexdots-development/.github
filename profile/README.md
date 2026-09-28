@@ -2,8 +2,6 @@
 
 <img src="assets/logo-colored.png" alt="NexDots" width="120" />
 
-# NexDots
-
 **Strategy, engineering, and AI — software built to operate at your scale.**
 
 A Phnom Penh studio building mobile & web apps with Flutter, React and Node.js.
