@@ -6,7 +6,7 @@
 
 A Phnom Penh studio building mobile & web apps with Flutter, React and Node.js.
 
-[Website](https://nexdots.com) · [Email](mailto:info@nexdots.com) · [LinkedIn](https://www.linkedin.com/company/TODO) · [Telegram](https://t.me/TODO)
+[Website](https://nexdots.com) · [Email](mailto:info@nexdots.com) · [LinkedIn](https://www.linkedin.com/company/nexdots/) · [Telegram](https://t.me/nexdots_info)
 
 </div>
 
